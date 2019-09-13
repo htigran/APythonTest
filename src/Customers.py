@@ -64,7 +64,7 @@ class Customers(object):
                 self.data.append(json_data)
 
             except Exception as e:
-                logging.error("Error parsing json string {}\n{}".format(
+                logging.error("Error parsing json string {} -- {}".format(
                     line, e
                 ))
 

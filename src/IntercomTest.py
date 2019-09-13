@@ -74,7 +74,7 @@ def main():
     logging.basicConfig(filename="intercom_test.log",
                         filemode="a",
                         level=logging.ERROR,
-                        format='%(name)s - %(levelname)s - %(message)s')
+                        format='%(asctime)s [%(levelname)s] %(message)s')
 
     # Command line arguments
     parser = argparse.ArgumentParser(description='Command line arguments')
