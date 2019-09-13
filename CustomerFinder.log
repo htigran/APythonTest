@@ -1,0 +1,4 @@
+2019-09-13 20:01:46,851 [ERROR] Error parsing json string {"latitude": "52.833502", "user_id": 25, "name": "David Behan", "longitude": "-8.522366" -- Expecting ',' delimiter: line 1 column 89 (char 88)
+2019-09-13 20:01:54,056 [ERROR] Error parsing json string {"latitude": "52.833502", "user_id": 25, "name": "David Behan", "longitude": "-8.522366" -- Expecting ',' delimiter: line 1 column 89 (char 88)
+2019-09-13 20:02:14,029 [ERROR] Error parsing json string {"latitude": "52.833502", "user_id": 25, "name": "David Behan", "longitude": "-8.522366" -- Expecting ',' delimiter: line 1 column 89 (char 88)
+2019-09-13 20:03:27,810 [ERROR] Error parsing json string {"latitude": "52.833502", "user_id": 25, "name": "David Behan", "longitude": "-8.522366" -- Expecting ',' delimiter: line 1 column 89 (char 88)

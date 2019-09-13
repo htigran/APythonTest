@@ -71,7 +71,7 @@ def main():
     """
 
     # logger
-    logging.basicConfig(filename="intercom_test.log",
+    logging.basicConfig(filename="CustomerFinder.log",
                         filemode="a",
                         level=logging.ERROR,
                         format='%(asctime)s [%(levelname)s] %(message)s')

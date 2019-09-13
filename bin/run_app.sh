@@ -2,7 +2,7 @@
 
 pushd /code/
 
-PYTHONPATH=/code/src python3 src/IntercomTest.py data/customers.txt
+PYTHONPATH=/code/src python3 src/CustomerFinder.py data/customers.txt
 
 rm -fr /code/src/__pycache__
 

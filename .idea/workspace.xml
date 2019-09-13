@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fc4e0b81-5788-4d7b-b809-959730b5fb2e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test/test_customers.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Customers.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Customers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/IntercomTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/IntercomTest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/TestCustoemrs.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/TestCustoemrs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/TestGreatCircleDistance.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/TestGreatCircle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/IntercomTest.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/CustomerFinder.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,10 +29,10 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Customers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="263">
+            <state relative-caret-position="-349">
               <caret line="66" column="63" selection-start-line="66" selection-start-column="63" selection-end-line="66" selection-end-column="63" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
@@ -55,11 +50,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/IntercomTest.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/CustomerFinder.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="44" column="22" lean-forward="true" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
+            <state relative-caret-position="176">
+              <caret line="73" column="48" selection-start-line="73" selection-start-column="48" selection-end-line="73" selection-end-column="48" />
               <folding>
                 <element signature="e#0#36#0" expanded="true" />
               </folding>
@@ -118,6 +113,7 @@
         <option value="$PROJECT_DIR$/test/TestCustoemrs.py" />
         <option value="$PROJECT_DIR$/src/IntercomTest.py" />
         <option value="$PROJECT_DIR$/src/Customers.py" />
+        <option value="$PROJECT_DIR$/src/CustomerFinder.py" />
       </list>
     </option>
   </component>
@@ -415,16 +411,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/IntercomTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="44" column="22" lean-forward="true" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/TestCustoemrs.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -437,10 +423,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Customers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
+        <state relative-caret-position="-349">
           <caret line="66" column="63" selection-start-line="66" selection-start-column="63" selection-end-line="66" selection-end-column="63" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/CustomerFinder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="73" column="48" selection-start-line="73" selection-start-column="48" selection-end-line="73" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#36#0" expanded="true" />
           </folding>
         </state>
       </provider>
