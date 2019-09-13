@@ -1,4 +1,16 @@
 
-env:
-	docker build -t intercomtest:1.0  .
+test:
+	@docker run -v `pwd`:/code python:3  /code/bin/run_unittests.sh
 
+run:
+	@docker run -v `pwd`:/code python:3  /code/bin/run_app.sh
+	@echo "================== RESULTS ==================="
+	cat invited.txt
+	@echo "== For additional details please check intercom_test.log =="
+	
+
+clean:
+	rm -fr */__pycache__/
+
+
+.PHONY: test
